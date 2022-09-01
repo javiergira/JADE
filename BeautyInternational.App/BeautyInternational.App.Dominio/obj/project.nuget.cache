@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G0dG7Q9hwuBj4HQ6Br4bptEDTET7NXXvgDidNAj+oqqZhFWBuHL6qByUcWjjM2HyeMAl/IDdkac7vts9/nqqJA==",
+  "success": true,
+  "projectFilePath": "/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Dominio/BeautyInternational.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "/Users/DanielaMac/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/DanielaMac/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

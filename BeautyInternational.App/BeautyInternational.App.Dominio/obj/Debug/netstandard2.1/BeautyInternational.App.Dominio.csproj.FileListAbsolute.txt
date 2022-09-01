@@ -1,0 +1,9 @@
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Dominio/obj/Debug/netstandard2.1/BeautyInternational.App.Dominio.csprojAssemblyReference.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Dominio/obj/Debug/netstandard2.1/BeautyInternational.App.Dominio.AssemblyInfoInputs.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Dominio/obj/Debug/netstandard2.1/BeautyInternational.App.Dominio.AssemblyInfo.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Dominio/obj/Debug/netstandard2.1/BeautyInternational.App.Dominio.csproj.CoreCompileInputs.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Dominio/bin/Debug/netstandard2.1/BeautyInternational.App.Dominio.deps.json
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Dominio/bin/Debug/netstandard2.1/BeautyInternational.App.Dominio.dll
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Dominio/bin/Debug/netstandard2.1/BeautyInternational.App.Dominio.pdb
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Dominio/obj/Debug/netstandard2.1/BeautyInternational.App.Dominio.dll
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Dominio/obj/Debug/netstandard2.1/BeautyInternational.App.Dominio.pdb
