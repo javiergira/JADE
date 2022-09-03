@@ -49,7 +49,12 @@ namespace BeautyInternational.App.Persistencia.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
+                    b.Property<int?>("citasid")
+                        .HasColumnType("int");
+
                     b.HasKey("id");
+
+                    b.HasIndex("citasid");
 
                     b.ToTable("Historias");
                 });
@@ -183,6 +188,15 @@ namespace BeautyInternational.App.Persistencia.Migrations
                         .HasForeignKey("servicioid");
 
                     b.Navigation("servicio");
+                });
+
+            modelBuilder.Entity("BeautyInternational.App.Dominio.ClsHistoria", b =>
+                {
+                    b.HasOne("BeautyInternational.App.Dominio.ClsCita", "citas")
+                        .WithMany()
+                        .HasForeignKey("citasid");
+
+                    b.Navigation("citas");
                 });
 
             modelBuilder.Entity("BeautyInternational.App.Dominio.ClsCliente", b =>

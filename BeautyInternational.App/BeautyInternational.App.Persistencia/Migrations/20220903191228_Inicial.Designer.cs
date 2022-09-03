@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BeautyInternational.App.Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20220901000752_Initial")]
-    partial class Initial
+    [Migration("20220903191228_Inicial")]
+    partial class Inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -51,7 +51,12 @@ namespace BeautyInternational.App.Persistencia.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
+                    b.Property<int?>("citasid")
+                        .HasColumnType("int");
+
                     b.HasKey("id");
+
+                    b.HasIndex("citasid");
 
                     b.ToTable("Historias");
                 });
@@ -185,6 +190,15 @@ namespace BeautyInternational.App.Persistencia.Migrations
                         .HasForeignKey("servicioid");
 
                     b.Navigation("servicio");
+                });
+
+            modelBuilder.Entity("BeautyInternational.App.Dominio.ClsHistoria", b =>
+                {
+                    b.HasOne("BeautyInternational.App.Dominio.ClsCita", "citas")
+                        .WithMany()
+                        .HasForeignKey("citasid");
+
+                    b.Navigation("citas");
                 });
 
             modelBuilder.Entity("BeautyInternational.App.Dominio.ClsCliente", b =>
