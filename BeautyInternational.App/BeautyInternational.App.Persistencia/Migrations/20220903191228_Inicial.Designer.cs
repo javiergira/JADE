@@ -114,6 +114,9 @@ namespace BeautyInternational.App.Persistencia.Migrations
                     b.Property<string>("registroUnico")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("cedula")
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("id");
 
                     b.ToTable("Personas");
