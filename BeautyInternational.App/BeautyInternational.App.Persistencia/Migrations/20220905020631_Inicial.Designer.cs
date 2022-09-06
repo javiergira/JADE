@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BeautyInternational.App.Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20220903191228_Inicial")]
+    [Migration("20220905020631_Inicial")]
     partial class Inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -68,7 +68,7 @@ namespace BeautyInternational.App.Persistencia.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<string>("contraseña")
+                    b.Property<string>("contrasena")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("usuario")
@@ -93,6 +93,9 @@ namespace BeautyInternational.App.Persistencia.Migrations
                     b.Property<string>("apellido")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("cedula")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("celular")
                         .HasColumnType("nvarchar(max)");
 
@@ -112,9 +115,6 @@ namespace BeautyInternational.App.Persistencia.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("registroUnico")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("cedula")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("id");

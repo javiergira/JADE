@@ -66,7 +66,7 @@ namespace BeautyInternational.App.Persistencia.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<string>("contraseña")
+                    b.Property<string>("contrasena")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("usuario")
@@ -89,6 +89,9 @@ namespace BeautyInternational.App.Persistencia.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("apellido")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("cedula")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("celular")

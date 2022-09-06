@@ -6,25 +6,24 @@ namespace BeautyInternational.App.Consola
 {
     class Program
     {
-        private static IRepositorioClsPersona _repoPersona = new RepositorioClsPersona(new Persistencia.AppContext());
+        private static IRepositorioClsServicio _repoServicio = new RepositorioClsServicio(new Persistencia.AppContext());
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            AddPersona();
+            BorrarServicio(1);
+            //crearServicio();
         }
 
-        private static void AddPersona(){
-            var persona = new ClsPersona{
-                registroUnico = "0001",
-                nombre = "Nicolay",
-                apellido = "Perez",
-                genero = "Hombre",
-                celular = "3208456570",
-                correo = "nicolindo@hotmail.com",
-                direccion = "Carre54 #63-22 sur",
-                fechaNacimiento = new DateTime(1999, 12, 04)
+        /*private static void crearServicio(){
+            var servicio = new ClsServicio{
+                tipoServicio = "Corte cabello",
+                precio = 15000
             };
-            _repoPersona.AddPersona(persona);
+            _repoServicio.AddServicio(servicio);
+        }*/
+
+        private static void BorrarServicio(int idServicio){
+            _repoServicio.DeleteServicio(idServicio);
+            }
         }
-    }
-}
+        }
