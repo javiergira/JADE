@@ -1,0 +1,12 @@
+C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Persistencia\obj\Debug\netstandard2.1\BeautyInternacional.App.Persistencia.csprojAssemblyReference.cache
+C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Persistencia\obj\Debug\netstandard2.1\BeautyInternacional.App.Persistencia.AssemblyInfoInputs.cache
+C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Persistencia\obj\Debug\netstandard2.1\BeautyInternacional.App.Persistencia.AssemblyInfo.cs
+C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Persistencia\obj\Debug\netstandard2.1\BeautyInternacional.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Persistencia\bin\Debug\netstandard2.1\BeautyInternacional.App.Persistencia.deps.json
+C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Persistencia\bin\Debug\netstandard2.1\BeautyInternacional.App.Persistencia.dll
+C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Persistencia\bin\Debug\netstandard2.1\BeautyInternacional.App.Persistencia.pdb
+C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Persistencia\bin\Debug\netstandard2.1\BeautyInternacional.App.Dominio.dll
+C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Persistencia\bin\Debug\netstandard2.1\BeautyInternacional.App.Dominio.pdb
+C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Persistencia\obj\Debug\netstandard2.1\BeautyInternacional.App.Persistencia.csproj.CopyComplete
+C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Persistencia\obj\Debug\netstandard2.1\BeautyInternacional.App.Persistencia.dll
+C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Persistencia\obj\Debug\netstandard2.1\BeautyInternacional.App.Persistencia.pdb
