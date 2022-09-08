@@ -1,9 +1,0 @@
-C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Dominio\obj\Debug\netstandard2.1\BeautyInternacional.App.Dominio.csprojAssemblyReference.cache
-C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Dominio\obj\Debug\netstandard2.1\BeautyInternacional.App.Dominio.AssemblyInfoInputs.cache
-C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Dominio\obj\Debug\netstandard2.1\BeautyInternacional.App.Dominio.AssemblyInfo.cs
-C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Dominio\obj\Debug\netstandard2.1\BeautyInternacional.App.Dominio.csproj.CoreCompileInputs.cache
-C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Dominio\bin\Debug\netstandard2.1\BeautyInternacional.App.Dominio.deps.json
-C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Dominio\bin\Debug\netstandard2.1\BeautyInternacional.App.Dominio.dll
-C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Dominio\bin\Debug\netstandard2.1\BeautyInternacional.App.Dominio.pdb
-C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Dominio\obj\Debug\netstandard2.1\BeautyInternacional.App.Dominio.dll
-C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Dominio\obj\Debug\netstandard2.1\BeautyInternacional.App.Dominio.pdb

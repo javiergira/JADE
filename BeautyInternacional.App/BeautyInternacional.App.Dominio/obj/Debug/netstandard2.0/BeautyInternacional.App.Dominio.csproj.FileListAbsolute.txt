@@ -1,4 +1,0 @@
-C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Dominio\obj\Debug\netstandard2.0\BeautyInternacional.App.Dominio.csprojAssemblyReference.cache
-C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Dominio\obj\Debug\netstandard2.0\BeautyInternacional.App.Dominio.AssemblyInfoInputs.cache
-C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Dominio\obj\Debug\netstandard2.0\BeautyInternacional.App.Dominio.AssemblyInfo.cs
-C:\Ciclo3\Proyecto\BeautyInternacionalPeluqueria\BeautyInternacional.App\BeautyInternacional.App.Dominio\obj\Debug\netstandard2.0\BeautyInternacional.App.Dominio.csproj.CoreCompileInputs.cache
