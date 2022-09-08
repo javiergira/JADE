@@ -1,0 +1,12 @@
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Persistencia/obj/Debug/netstandard2.1/BeautyInternational.App.Persistencia.csprojAssemblyReference.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Persistencia/obj/Debug/netstandard2.1/BeautyInternational.App.Persistencia.AssemblyInfoInputs.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Persistencia/obj/Debug/netstandard2.1/BeautyInternational.App.Persistencia.AssemblyInfo.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Persistencia/obj/Debug/netstandard2.1/BeautyInternational.App.Persistencia.csproj.CoreCompileInputs.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Persistencia/bin/Debug/netstandard2.1/BeautyInternational.App.Persistencia.deps.json
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Persistencia/bin/Debug/netstandard2.1/BeautyInternational.App.Persistencia.dll
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Persistencia/bin/Debug/netstandard2.1/BeautyInternational.App.Persistencia.pdb
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Persistencia/bin/Debug/netstandard2.1/BeautyInternational.App.Dominio.dll
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Persistencia/bin/Debug/netstandard2.1/BeautyInternational.App.Dominio.pdb
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Persistencia/obj/Debug/netstandard2.1/BeautyInternational.App.Persistencia.csproj.CopyComplete
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Persistencia/obj/Debug/netstandard2.1/BeautyInternational.App.Persistencia.dll
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Persistencia/obj/Debug/netstandard2.1/BeautyInternational.App.Persistencia.pdb
