@@ -34,3 +34,4 @@
 /Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.pdb
 /Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.genruntimeconfig.cache
 /Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.csproj.CopyComplete
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Registro/Registros.cshtml.g.cs
