@@ -1,5 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
+  <ItemGroup>
+    <ProjectReference Include="..\BeautyInternational.App.Persistencia\BeautyInternational.App.Persistencia.csproj" />
+    <ProjectReference Include="..\BeautyInternational.App.Dominio\BeautyInternational.App.Dominio.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
