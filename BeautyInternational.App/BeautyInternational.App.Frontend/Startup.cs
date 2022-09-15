@@ -8,10 +8,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using BeautyInternational.App.Persistencia.AppRepositorios;
-{
-    
-}
+using BeautyInternational.App.Persistencia;
+
 
 namespace BeautyInternational.App.Frontend
 {
@@ -28,14 +26,18 @@ namespace BeautyInternational.App.Frontend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddControllersWithViews();
+            services.AddDbContext<BeautyInternational.App.Persistencia.AppContext>();
+            /*services.AddDbContext<BeautyInternational.App.Persistencia.AppContext>();
             services.AddSingleton<IRepositorioClsAdministrador, RepositorioClsAdministrador>();
             services.AddSingleton<IRepositorioClsCita, RepositorioClsCita>();
+            services.AddSingleton<IRepositorioClsAdministrador, RepositorioClsAdministrador>();
             services.AddSingleton<IRepositorioClsCliente, RepositorioClsCliente>();
             services.AddSingleton<IRepositorioClsLogueo, RepositorioClsLogueo>();
             services.AddSingleton<IRepositorioClsPersona, RepositorioClsPersona>();
-            services.AddSingleton<IRepositorioClsProfesional, RepositorioClsProfesional>();
-            services.AddSingleton<IRepositorioClsServicio, RepositorioServicio>();
-            services.AddSingleton<IRepositorioClsHistoria, RepositorioClsHistoria>();
+            services.AddSingleton<IRepositorioClsProfesional, RepositorioClsProfesional>();*/
+            /*services.AddSingleton<IRepositorioClsServicio, RepositorioClsServicio>();*/
+            /*services.AddSingleton<IRepositorioClsHistoria, RepositorioClsHistoria>();*/
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

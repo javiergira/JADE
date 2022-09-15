@@ -10,7 +10,8 @@ namespace BeautyInternational.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            BorrarServicio(1);
+            Console.WriteLine(obtener());
+            //BorrarServicio(1);
             //crearServicio();
         }
 
@@ -22,8 +23,8 @@ namespace BeautyInternational.App.Consola
             _repoServicio.AddServicio(servicio);
         }*/
 
-        private static void BorrarServicio(int idServicio){
-            _repoServicio.DeleteServicio(idServicio);
+        private IEnumerable<ClsServicio> obtener(){
+            _repoServicio.GetAllServicios();
             }
-        }
-        }
+    }
+}

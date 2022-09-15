@@ -8,9 +8,9 @@ using System.Collections.Generic;
 using BeautyInternational.App.Dominio;
 
 namespace BeautyInternational.App.Persistencia{
-    public class RepositorioClsClita:IRepositorioClsCita{
+    public class RepositorioClsCita:IRepositorioClsCita{
         private readonly AppContext _appContext;
-        public RepositorioClsClita(AppContext appContext){
+        public RepositorioClsCita(AppContext appContext){
             _appContext=appContext;
         }
 

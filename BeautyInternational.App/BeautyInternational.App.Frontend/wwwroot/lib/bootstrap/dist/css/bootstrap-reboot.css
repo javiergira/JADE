@@ -211,8 +211,8 @@ select,
 optgroup,
 textarea {
   margin: 0;
-  font-family: inherit;
-  font-size: inherit;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: normal;
   line-height: inherit;
 }
 
@@ -254,7 +254,7 @@ button::-moz-focus-inner,
 
 input[type="radio"],
 input[type="checkbox"] {
-  box-sizing: border-box;
+  box-sizing: content-box;
   padding: 0;
 }
 
@@ -263,6 +263,7 @@ input[type="time"],
 input[type="datetime-local"],
 input[type="month"] {
   -webkit-appearance: listbox;
+  background-size: auto;
 }
 
 textarea {
