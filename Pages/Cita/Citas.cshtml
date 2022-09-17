@@ -1,0 +1,68 @@
+﻿@page
+@model BeautyInternational.CitasModel
+@{
+}
+<head>
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+ <link href="css/bootstrap-datetimepicker.min.css" rel="stylesheet">
+ <script src="js/bootstrap-datetimepicker.min.js"></script>
+
+</head>
+<form>
+    <div class="mb-3">
+            <h2> Agenda tu Cita</h2>
+
+         <i class='fas fa-id-card'></i>
+        <input type="number" placeholder="Introduzca cédula" class="form-control" id="exampleInputCedula">
+    </div>
+    <div class="mb-3">
+           <i class='fas fa-user-edit'></i>
+        <input type="text" placeholder="Introduzca Nombres"class="form-control" id="exampleInputNombres">
+    </div>
+    <div class="mb-3"><i class='fas fa-user-edit'></i>
+        <input type="Text" placeholder="Introduzca Apellidos" class="form-control" id="exampleInputApellidos">
+    </div> 
+    
+    <div class="mb-3">
+        <i class='fas fa-venus-mars'></i>
+        <input type="text" placeholder="Introduzca Genero" class="form-control" id="exampleInputGenero">
+    </div>
+   
+
+    <div>
+  <label for=""> Servicio</label>
+   <select name="Servivio" id=" Servicio" class="form-control" id="exampleInputGenero">
+    <option value=" prof 1">Corte</option>
+      <option value=" prof 2">Cepillado</option>
+        <option value=" prof 3">Tintura</option>
+       
+   </select>
+
+    </div>
+    <div>
+   <label for="">Profesional</label>
+   <select name="Profesional" id=" Profeional " class="form-control" id="exampleInputGenero">
+    <option value=" prof 1">Andres osorio</option>
+      <option value=" prof 2">Danilo Jaime</option>
+        <option value=" prof 3">Bernardo Cepeda</option>
+          <option value=" prof 4"> Diana alvarez</option>
+
+   </select>
+
+    </div>
+     <div>
+    
+      <i class='fas fa-calendar-alt'></i>   
+     <input type="datetime-local" min="2022-01-01" max="2022-12-31">  
+     <h7>Seleciona la hora y fecha de tu cita</h7>  
+     
+    </div>
+
+    
+    <dir>
+
+    </dir>
+   
+    <button type="">Enviar</button>
+</form>

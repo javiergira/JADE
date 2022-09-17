@@ -1,0 +1,248 @@
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/bin/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.deps.json
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/bin/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.runtimeconfig.json
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/bin/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.runtimeconfig.dev.json
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/bin/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.dll
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/bin/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.pdb
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/bin/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.Views.dll
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/bin/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.Views.pdb
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.csprojAssemblyReference.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.AssemblyInfoInputs.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.AssemblyInfo.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.csproj.CoreCompileInputs.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.RazorAssemblyInfo.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.RazorAssemblyInfo.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.TagHelpers.input.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.TagHelpers.output.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.RazorCoreGenerate.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.RazorTargetAssemblyInfo.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.RazorTargetAssemblyInfo.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.Views.pdb
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/BeautyInternational.App.Frontend.StaticWebAssets.Manifest.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/BeautyInternational.App.Frontend.StaticWebAssets.xml
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.dll
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.pdb
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.genruntimeconfig.cache
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/BeautyInternational.App.Frontend.csproj.CopyComplete
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Registro/Registros.cshtml.g.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Cita/Citas.cshtml.g.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/ModUsuario/Modificacion.cshtml.g.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Servicio/Servicios.cshtml.g.cs
+/Users/DanielaMac/Documents/ciclo3/prjBeautyInternational/BeautyInternational.App/BeautyInternational.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Historia/Historial.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.exe
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.deps.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.runtimeconfig.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.runtimeconfig.dev.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.dll
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.pdb
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.dll
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.pdb
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.AssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\BeautyInternational.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.TagHelpers.input.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.TagHelpers.output.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorCoreGenerate.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cita\Citas.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Historia\Historial.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\ModUsuario\Modificacion.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Registro\Registros.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Servicios.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.pdb
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.dll
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.pdb
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.csproj.CopyComplete
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.csprojAssemblyReference.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\trabajo\prjBeautyInternational\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\BeautyInternational.App.Frontend.StaticWebAssets.xml
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.exe
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.deps.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.runtimeconfig.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.runtimeconfig.dev.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.dll
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.pdb
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.dll
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.pdb
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.csprojAssemblyReference.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.AssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.TagHelpers.input.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.TagHelpers.output.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorCoreGenerate.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cita\Citas.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Historia\Historial.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\ModUsuario\Modificacion.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Registro\Registros.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Servicios.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.pdb
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\BeautyInternational.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\BeautyInternational.App.Frontend.StaticWebAssets.xml
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.dll
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.pdb
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.csproj.CopyComplete
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\Beutyfull Internacional\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\ConCita\ConsultaCita.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.exe
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.deps.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.runtimeconfig.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.runtimeconfig.dev.json
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.dll
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.pdb
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.dll
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.pdb
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.csprojAssemblyReference.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.AssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.TagHelpers.input.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.TagHelpers.output.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorCoreGenerate.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cita\Citas.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\ConCita\ConsultaCita.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Historia\Historial.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\ModUsuario\Modificacion.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Registro\Registros.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Servicios.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.pdb
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\BeautyInternational.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\BeautyInternational.App.Frontend.StaticWebAssets.xml
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.dll
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.pdb
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.csproj.CopyComplete
+C:\Users\Danie\OneDrive\Escritorio\Grupo 60\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Iniciosesion\InicioSesion.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.exe
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.deps.json
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.runtimeconfig.json
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.runtimeconfig.dev.json
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.dll
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.pdb
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.dll
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.pdb
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.csprojAssemblyReference.cache
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.AssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.TagHelpers.input.cache
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.TagHelpers.output.cache
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorCoreGenerate.cache
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cita\Citas.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\ConCita\ConsultaCita.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Historia\Historial.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Iniciosesion\InicioSesion.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\ModUsuario\Modificacion.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Registro\Registros.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Servicios.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.pdb
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\BeautyInternational.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\BeautyInternational.App.Frontend.StaticWebAssets.xml
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.dll
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.pdb
+C:\Users\Danie\OneDrive\Escritorio\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.csproj.CopyComplete
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.exe
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.deps.json
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.runtimeconfig.json
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.runtimeconfig.dev.json
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.dll
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.pdb
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.dll
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\bin\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.pdb
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.csprojAssemblyReference.cache
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.AssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.TagHelpers.input.cache
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.TagHelpers.output.cache
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorCoreGenerate.cache
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Cita\Citas.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\ConCita\ConsultaCita.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Historia\Historial.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Iniciosesion\InicioSesion.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\ModUsuario\Modificacion.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Registro\Registros.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Servicios.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.Views.pdb
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\BeautyInternational.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\BeautyInternational.App.Frontend.StaticWebAssets.xml
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.dll
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.pdb
+C:\Users\Danie\OneDrive\Escritorio\daniela\unificacion beauty internacional\BeautyInternational.App\BeautyInternational.App.Frontend\obj\Debug\netcoreapp3.1\BeautyInternational.App.Frontend.csproj.CopyComplete
